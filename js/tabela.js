@@ -11,7 +11,6 @@ let pessoas =[
 
 let tabela = document.querySelector('#tabela-usuarios');
 
-
 window.onload = criaTabela(pessoas);
     
 function criaTabela(listaPessoas){
